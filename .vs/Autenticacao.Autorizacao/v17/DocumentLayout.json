@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|c:\\users\\italo\\source\\repos\\autenticacao.autorizacao\\autenticacao.autorizacao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|solutionrelative:autenticacao.autorizacao\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|c:\\users\\italo\\source\\repos\\autenticacao.autorizacao\\autenticacao.autorizacao\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|solutionrelative:autenticacao.autorizacao\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|c:\\users\\italo\\source\\repos\\autenticacao.autorizacao\\autenticacao.autorizacao\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|solutionrelative:autenticacao.autorizacao\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|c:\\users\\italo\\source\\repos\\autenticacao.autorizacao\\autenticacao.autorizacao\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|solutionrelative:autenticacao.autorizacao\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|c:\\users\\italo\\source\\repos\\autenticacao.autorizacao\\autenticacao.autorizacao\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|solutionrelative:autenticacao.autorizacao\\repositories\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|c:\\users\\italo\\source\\repos\\autenticacao.autorizacao\\autenticacao.autorizacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|solutionrelative:autenticacao.autorizacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|c:\\users\\italo\\source\\repos\\autenticacao.autorizacao\\autenticacao.autorizacao\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F9A30-EDEF-4BF0-8BDB-0EB3A6D1450F}|Autenticacao.Autorizacao\\Autenticacao.Autorizacao.csproj|solutionrelative:autenticacao.autorizacao\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Autenticacao.Autorizacao\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Autenticacao.Autorizacao\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:00:44.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Autenticacao.Autorizacao\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Autenticacao.Autorizacao\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:09:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Program.cs",
+              "RelativeDocumentMoniker": "Autenticacao.Autorizacao\\Program.cs",
+              "ToolTip": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Program.cs",
+              "RelativeToolTip": "Autenticacao.Autorizacao\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:57:53.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Autenticacao.Autorizacao\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Service\\TokenService.cs",
+              "RelativeToolTip": "Autenticacao.Autorizacao\\Service\\TokenService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:12:06.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Settings.cs",
+              "RelativeDocumentMoniker": "Autenticacao.Autorizacao\\Settings.cs",
+              "ToolTip": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Settings.cs",
+              "RelativeToolTip": "Autenticacao.Autorizacao\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:56:58.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Repositories\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Autenticacao.Autorizacao\\Repositories\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Repositories\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Autenticacao.Autorizacao\\Repositories\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:32:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Autenticacao.Autorizacao\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Italo\\source\\repos\\Autenticacao.Autorizacao\\Autenticacao.Autorizacao\\Models\\Usuario.cs",
+              "RelativeToolTip": "Autenticacao.Autorizacao\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:29:05.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
