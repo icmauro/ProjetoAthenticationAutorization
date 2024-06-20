@@ -4,6 +4,7 @@
 Entregando projeto praticado na Aula sobre Autenticação e Autorização Bearer e Token JWT.
 
 Link Youtube da Aula.
+
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=vAUXU0YIWlU)
 
 Projeto bem simples entregando os itens:
