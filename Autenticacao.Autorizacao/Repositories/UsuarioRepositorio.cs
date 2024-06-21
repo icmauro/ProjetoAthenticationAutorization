@@ -12,8 +12,6 @@ namespace Autenticacao.Autorizacao.Repositories
                 new Usuario() { Id = 1, Nome = "robin", Password = "robin", Roles = "employee" }
             };
 
-            //user.Add(new Usuario() { Id = 1, Nome = "batman", Password = "batman", Roles = "" });
-
             return user
                     .FirstOrDefault(x => string.Equals(x.Nome, nome, StringComparison.OrdinalIgnoreCase) && x.Password == password);
         }
